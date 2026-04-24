@@ -1,0 +1,102 @@
+
+aside>img{
+width: 1.4rem;
+
+     display: block;
+         margin: 1.6rem auto;
+ 
+}
+aside{
+    width: 6%;
+    height: 100vh;
+    float: left;
+    background-color: azure;
+  
+
+}
+input{
+      
+ border: none;
+ border-radius: 5px; 
+ background-color: azure;
+ width: 90%;
+ height: 40px;
+ 
+}
+header{
+   display: flex; 
+   width: 80%;
+   margin: 0 auto;
+   align-items: flex-end;
+}
+header>img{
+    margin: 0 0 0 20px;
+    width: 4%;
+border-radius: 30px;
+    border: solid 1px;
+     
+}
+nav{
+  width: 83%;
+  margin: 0 auto;
+  margin-top: 25px;
+  
+}
+a{
+    margin-left: 30px;
+    
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    
+}
+a:hover{
+    background-color: azure;
+    color: rgb(206, 22, 22);
+}
+.subrayado{
+     border-bottom: #333 2px solid;
+}
+
+
+
+
+div{
+    
+    width: 25%;
+ 
+}
+.contenedor {
+    padding-left: 10px;
+    width: 90%;
+    position: relative;
+    margin-top: 30px;
+     
+    
+    display: flex;
+}
+
+.columna {
+    display: inline-block;
+    width: 30%; 
+    margin: 0 1%;
+    vertical-align: top;
+}
+
+
+.separado {
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: coral;
+    padding: 10px;
+    position: relative;
+}
+
+.separado img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+}
+
